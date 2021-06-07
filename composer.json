@@ -1,0 +1,23 @@
+{
+    "name": "inna/think-api-resource",
+    "description": "API Resources Converter for ThinkPHP.",
+    "keywords": [
+        "thinkphp",
+        "api resource"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mamx",
+            "email": "mx.ma@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Inna\\ApiResource\\": "src"
+        }
+    }
+}
