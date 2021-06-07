@@ -2,10 +2,14 @@
     "name": "inna/think-api-resource",
     "description": "API Resources Converter for ThinkPHP.",
     "keywords": [
-        "thinkphp",
-        "api resource"
+        "api resource",
+        "thinkphp"
     ],
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/mvmx/think-api-resource/issues",
+        "source": "https://github.com/mvmx/think-api-resource"
+    },
     "authors": [
         {
             "name": "mamx",
