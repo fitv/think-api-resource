@@ -149,7 +149,7 @@ class JsonResource implements JsonSerializable
         return Response::create(
             array_merge(
                 static::$wrap ? [static::$wrap => $data] : $data,
-                $this->additional,
+                $this->additional
             ),
             'json'
         );
