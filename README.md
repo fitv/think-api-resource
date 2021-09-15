@@ -1,6 +1,6 @@
 # Think API Resource
 
-API Resources Converter for ThinkPHP.
+API Resources Converter for ThinkPHP 6.
 
 ## Installation
 
