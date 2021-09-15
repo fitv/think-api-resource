@@ -3,7 +3,7 @@
 namespace Inna\ApiResource;
 
 use JsonSerializable;
-use think\Request;
+use think\facade\Request;
 use think\Response;
 
 class JsonResource implements JsonSerializable
