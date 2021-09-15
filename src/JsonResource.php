@@ -47,7 +47,7 @@ class JsonResource implements JsonSerializable
      * 创建集合资源
      *
      * @param  mixed $resource
-     * @return \app\common\library\resource\AnonymousResourceCollection
+     * @return \Inna\ApiResource\AnonymousResourceCollection
      */
     public static function collection($resource)
     {
